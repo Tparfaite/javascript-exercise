@@ -1,0 +1,11 @@
+.form{
+    background-color: rgb(149, 115, 67);
+    width: 600px;
+    height: 300px;
+    padding-left: 30px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.youremail,.pass,.lname,.fname{
+    margin-left:12px;
+}
